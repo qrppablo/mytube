@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mytube/static/css/main.20d4b133.chunk.css",
+    "main.js": "/mytube/static/js/main.e0d3f5da.chunk.js",
+    "main.js.map": "/mytube/static/js/main.e0d3f5da.chunk.js.map",
+    "runtime-main.js": "/mytube/static/js/runtime-main.9a561520.js",
+    "runtime-main.js.map": "/mytube/static/js/runtime-main.9a561520.js.map",
+    "static/js/2.864d451a.chunk.js": "/mytube/static/js/2.864d451a.chunk.js",
+    "static/js/2.864d451a.chunk.js.map": "/mytube/static/js/2.864d451a.chunk.js.map",
+    "index.html": "/mytube/index.html",
+    "precache-manifest.73fe7e104003046812c90ca65ace5ca1.js": "/mytube/precache-manifest.73fe7e104003046812c90ca65ace5ca1.js",
+    "service-worker.js": "/mytube/service-worker.js",
+    "static/css/main.20d4b133.chunk.css.map": "/mytube/static/css/main.20d4b133.chunk.css.map",
+    "static/js/2.864d451a.chunk.js.LICENSE.txt": "/mytube/static/js/2.864d451a.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/mytube/static/media/Kenyan-Coffee.b3f2b0ea.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a561520.js",
+    "static/js/2.864d451a.chunk.js",
+    "static/css/main.20d4b133.chunk.css",
+    "static/js/main.e0d3f5da.chunk.js"
+  ]
+}
